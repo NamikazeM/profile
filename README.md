@@ -26,7 +26,8 @@ Saya adalah seorang Web Developer dari **Surabaya** yang terobsesi mengubah hal 
 
 ### 📫 Mari Terhubung!
 
-- **LinkedIn:** https://www.linkedin.com/in/rama-andhika-2826823b3
+- **LinkedIn:** https://www.linkedin.com/in/rama-andhika-dwi-wijaya
+- **Portofolio:** https://porto-ramaandhika.netlify.app
 
 ---
 
