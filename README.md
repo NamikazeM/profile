@@ -15,13 +15,6 @@ Saya adalah seorang Web Developer dari **Dinoyo, Ponten** yang terobsesi menguba
 
 ---
 
-### 📊 Statistik GitHub
-
-![Statistik GitHub Rama](https://github-readme-stats.vercel.app/api?username=NamikazeM&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamikazeM&layout=compact&theme=tokyonight)
-
----
-
 ### 🌟 Tentang Saya
 
 - 🔭 **Sedang mengerjakan:** Proyek internal tools dan beberapa eksperimen frontend.
